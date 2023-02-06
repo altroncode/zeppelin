@@ -1,5 +1,5 @@
 ### Python template
-### Python template
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -8,14 +8,13 @@ __pycache__/
 # C extensions
 *.so
 
-#IDE
+# IDE
 .idea/
 
 # Configuration
 .env
 
 # Developing
-
 test.py
 
 # Distribution / packaging
@@ -67,10 +66,10 @@ cover/
 *.mo
 *.pot
 
-#Data
+# Data
 data/
 
-#Databases
+# Databases
 *.db
 *.sqlite
 *.sqlite3
